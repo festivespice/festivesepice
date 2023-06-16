@@ -16,4 +16,5 @@ I'm most interested in all aspects of the design and implementation of applicati
 - [Generic sensor manager](https://github.com/festivespice/generic-sensor-data-application)
 - [Generic forum written primarily in PHP](https://github.com/festivespice/php-login-system/tree/main)  
 - [An application demonstrating authentication/authorization](https://github.com/festivespice/Secrets/tree/main)
-and others!
+
+...and others!
